@@ -1,3 +1,10 @@
+# (My version)
+
+The exercises were answered by me on the main file with help from [this video](https://www.youtube.com/watch?v=i7v2m-ebXB4)  
+from Keith Galli.  
+I also corrected the answers on the solution file when they were outdated.  
+
+---
 # 100 pandas puzzles
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
