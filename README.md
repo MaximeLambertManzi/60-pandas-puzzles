@@ -1,7 +1,6 @@
 # (My version)
 
-The exercises were answered by me on the `100-pandas-puzzles-my-solutions.ipynb` file with help from [this video](https://www.youtube.com/watch?v=i7v2m-ebXB4)  
-from Keith Galli.  
+The exercises were completed by me on the `100-pandas-puzzles-my-solutions.ipynb` file with help from [this video](https://www.youtube.com/watch?v=i7v2m-ebXB4) from Keith Galli.  
 I also corrected the answers on the solution file when they were outdated.  
 
 ---
